@@ -1,15 +1,19 @@
 # Hey there! Welcome to my Github page.
 
+---
+
 ## About me
+
 Getting into **WebDevelopment** I'm starting off yet another project in my life. 
 After studying biology for a few years, I've studied linguistics and worked as a linguist for a long time. I've mainly done research on African languages (e.g. the Khoisan language Nama/Khoekhoe in South Africa or the Bantoid language Mundabli in Cameroon). I've also taught German as a foreign language and gotten into coaching and social work. 
-During my life I have travelled a lot. I have worked and lived in London, Paris, Leiden NL, in different German towns like Bonn, Regensburg and Leipzig.
+During my life I have travelled a lot. I have worked and lived in Namibia, London, South Africa, Paris, Leiden (NL) and in different German towns like Bonn, Regensburg and Leipzig.
 
 In my free time, I 
 
 - dance Blues and Lindy Hop
 - go climbing
 - hike
+- spend time with my kids
 - meet friends
   
 ...and do other fun things. 
@@ -19,7 +23,7 @@ My first flat in Leiden was on this beautiful Gracht.
 
 ![a beautiful Gracht in Leiden](https://www.vielweib.de/wp-content/uploads/2022/01/IMG_9207-660x519.jpg)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## This is what I'm currently learning
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-)
