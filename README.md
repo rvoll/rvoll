@@ -4,7 +4,8 @@
 
 ## About me
 
-Getting into **WebDevelopment** I'm starting off yet another project in my life. 
+I' currently getting into **WebDevelopment** taking a course at 
+[neuefische](https://www.neuefische.de/bootcamp/web-development) in order to start off yet another project in my life. 
 After studying biology for a few years, I've studied linguistics and worked as a linguist for a long time. I've mainly done research on African languages (e.g. the Khoisan language Nama/Khoekhoe in South Africa or the Bantoid language Mundabli in Cameroon). I've also taught German as a foreign language and gotten into coaching and social work. 
 During my life I have travelled a lot. I have worked and lived in Namibia, London, South Africa, Paris, Leiden (NL) and in different German towns like Bonn, Regensburg and Leipzig.
 
