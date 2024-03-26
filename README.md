@@ -15,6 +15,14 @@ In my free time, I
 ...and do other fun things. 
 
 ## Where I lived
-My first flat in Leiden was on this Gracht.
+My first flat in Leiden was on this beautiful Gracht.
 
 ![a beautiful Gracht in Leiden](https://www.vielweib.de/wp-content/uploads/2022/01/IMG_9207-660x519.jpg)
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
